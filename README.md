@@ -1,6 +1,4 @@
-![rime_all](https://user-images.githubusercontent.com/12215982/144625408-61b43796-e120-4e12-9c70-ade0d91a77b3.png)
-
-该库是 Rime 输入法的一个 86版极点五笔的输入方案，支持多平台（Windows、macOS、Linux）
+该库是我个人使用的 Rime 输入法的86版五笔极点五笔和QQ五笔词库的输入方案，仅在小狼毫和鼠须管上经过亲自使用测试。所有程序代码、码表、皮肤均收集于网络，版权归原作者所有，本人不提供任何支持和保证。一切风险自负，慎用！
 
 ## 一、前言
 
@@ -8,11 +6,11 @@ Rime 是个输入法集合，涵盖常用的三个平台 Windows、macOS、Linux
 
 该输入法具有高度可定制化的特性，输入法通过读取不同的配置文件，来实现不同输入方式：全拼、双拼、五笔、仓颉，设置不同的输入习惯：二三候选、回车清码、z键拼音反查等等。
 
-正因为如此高的可自定义性，拉高了它的使用门槛。为了让更多的五笔用户更省心地使用 Rime 输入五笔，就有了这个86五笔输入方案，它的输入习惯比较接近于之前的极点五笔，码表也是使用的极点五笔的码表。
+正因为如此高的可自定义性，拉高了它的使用门槛。因为本人是五笔用户，烦于每次新安装RIME后的设置过程，因此收集了QQ五笔和极点五笔的 RIME 输入方案于此。
 
 由于三个平台使用的码表配置文件是一样的，所以能够在多个平台间保持同一种输入习惯，打起字来也会比较舒服。
 
-该码表词条不是很多，很多专业性的词语可能会没有，需要自己添加，可以使用配套工具 [五笔词条工具](https://github.com/KyleBing/wubi-dict-editor) 来完成词条的添加。
+该码表词条不是很多，很多专业性的词语可能会没有，需要自己添加。但是强烈建议不要直接导入其他来源的词库，那会严重打乱前辈们经过精心挑选设计的词库，大大降低输入体验和速度。
 
 
 ## 二、不同平台的输入法外观
@@ -38,27 +36,6 @@ __Linux: Ubuntu__
 
 <img width="250" alt="skin-ubuntu" src="https://user-images.githubusercontent.com/12215982/131607073-0b3dfe0e-bfc8-4be0-91c7-b304702acdda.png">
 
-
-
-## 三、文件说明
-
-```bash
-.
-├── README.md                               # 当前说明文档
-├── rime.lua                                # 配置文件 - 可以输出系统变量的函数
-├── default.custom.yaml                     # 配置文件 - 自定义一些输入法的功能：标点，二三候选等
-├── squirrel.custom.yaml                    # 配置文件 - 鼠须管（for macOS）输入法候选词界面
-├── weasel.custom.yaml                      # 配置文件 - 小狼毫（for Windows）输入法候选词界面
-├── numbers.schema.yaml                     # 输入方案 - 大写数字
-├── pinyin_simp.dict.yaml                   # 词库文件 - 简体拼音码表 - 五笔中拼音输入需要的
-├── pinyin_simp.schema.yaml                 # 输入方案 - 简体拼音
-├── wubi86_jidian_pinyin.schema.yaml        # 输入方案 - 五笔拼音混输
-├── wubi86_jidian.schema.yaml               # 输入方案 - 极点五笔
-├── wubi86_jidian.dict.yaml                 # 词库文件 - 极点五笔主码表
-├── wubi86_jidian_trad.schema.yaml          # 输入方案 - 五笔简入繁出
-├── wubi86_jidian_user.dict.yaml            # 词库文件 - 用户私人词库
-└── wubi86_jidian_extra.dict.yaml           # 词库文件 - 扩展词库
-```
 
 ## 四、安装
 
@@ -93,16 +70,6 @@ Windows 中的配置方法：
 2. 把该项目中的文件复制到里面
 3. 右击状态栏中的小狼毫输入法图标，选择 <kbd>重新部署</kbd> 即可
 
-
-### 3. ibus-rime (Ubuntu)
-
-执行下面指令安装 `ibus-rime` 输入法
-
-```bash
-sudo apt-get install ibus-rime
-```
-
-ubuntu 的配置文件目录在 `~/.config/ibus/rime/`
 
 ## 五、使用说明
 
@@ -185,8 +152,8 @@ ubuntu 的配置文件目录在 `~/.config/ibus/rime/`
 一种方式是，手动往词库中添加词组，并重新部署
 > 这个操作要注意的是词组与编码之间的符号是`tab`，写错了这个词是不会被识别的
 
-另一种是使用工具。Rime 默认是没有词条管理工具的，所以就写了一个工具，基本满足日常需求，如果有什么其它需要的功能，可以跟我说。
-[五笔词条工具](https://github.com/KyleBing/wubi-dict-editor)
+另一种是使用工具。Rime 默认是没有词条管理工具的，所以就有人写了一些第三方工具，比如[五笔词条工具](https://github.com/KyleBing/wubi-dict-editor)。
+
 
 <img width="812" alt="Screen Shot 2021-11-22 at 19 22 45" src="https://user-images.githubusercontent.com/12215982/143464548-0458c637-ce41-450e-8faa-e826dd1fa5f3.png">
 
@@ -232,20 +199,3 @@ __配置教程链接__
 - [x] Rime 官网：   [https://rime.im/](https://rime.im/)
 - [x] 中英切换自定义：[https://gist.github.com/lotem/2981316](https://gist.github.com/lotem/2981316)
 - [x] 簡繁配置說明關於 OpenCC ：[https://github.com/rime/home/issues/420](https://github.com/rime/home/issues/420)
-
-__本库 Wiki__
-- [x] [.schema.yaml 详解](https://github.com/KyleBing/rime-wubi86-jidian/wiki/Schema.yaml-%E8%AF%A6%E8%A7%A3)
-- [x] [关于编辑词库时的 tab 问题](https://github.com/KyleBing/rime-wubi86-jidian/wiki/%E5%85%B3%E4%BA%8E%E7%BC%96%E8%BE%91%E8%AF%8D%E5%BA%93%E6%97%B6-tab-%E7%9A%84%E9%97%AE%E9%A2%98)
-- [x] [皮肤配置详解](https://github.com/KyleBing/rime-wubi86-jidian/wiki/%E7%9A%AE%E8%82%A4%E9%85%8D%E7%BD%AE%E8%AF%A6%E8%A7%A3)
-- [x] [如何启用 ` fh` 这种特殊符号输入](https://github.com/KyleBing/rime-wubi86-jidian/wiki/%E5%A6%82%E4%BD%95%E5%90%AF%E7%94%A8-%5B-%E7%AC%A6%E5%8F%B7-%5D-%60fh%60-%E8%BF%99%E7%A7%8D%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5)
-
-
-
-## 支持
-感谢 [JetBrains](https://www.jetbrains.com/?from=rime-wubi86-jidian@KyleBing) 提供的工具支持
-
-![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.54620846.401568951.1648434626-301403838.1648434626)
-
-
-> **始于** 2019年02月28日
-# rime-config
