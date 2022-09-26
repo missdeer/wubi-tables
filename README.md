@@ -37,7 +37,7 @@ __Linux: Ubuntu__
 <img width="250" alt="skin-ubuntu" src="https://user-images.githubusercontent.com/12215982/131607073-0b3dfe0e-bfc8-4be0-91c7-b304702acdda.png">
 
 
-## 四、安装
+## 三、安装
 
 ### 1. 鼠须管（macOS）
 去 [官网下载](https://rime.im/download/)，按步骤安装即可
@@ -71,7 +71,7 @@ Windows 中的配置方法：
 3. 右击状态栏中的小狼毫输入法图标，选择 <kbd>重新部署</kbd> 即可
 
 
-## 五、使用说明
+## 四、使用说明
 
 ### 1. 选项菜单
 在输入状态时，<kbd>control</kbd> + <kbd>0</kbd> 或者 <kbd>shift</kbd> + <kbd>control</kbd> + <kbd>0</kbd> 弹出菜单
@@ -121,7 +121,7 @@ Windows 中的配置方法：
 <img width="300" src="https://user-images.githubusercontent.com/12215982/134291024-7df6073c-ec5a-420c-bcd1-2e63ea33d04b.jpg"/>
 
 
-## 六、常见自定义功能
+## 五、常见自定义功能
 所有配置说明都在配置文件中说明了，如果有其它问题可以在 `issue` 中提出，或者在群里（[QQ群：878750538](https://jq.qq.com/?_wv=1027&k=st8cY2sI)） 讨论，有需要就 `@十月`，一定要 `@` 哟，不然我看不到的
 
 ### 1. 回车清码
@@ -184,18 +184,19 @@ translator:
 ```
 
 
-## 七、其它相关链接
-
-__工具链接__
-- [x] 五笔码表助手： [https://github.com/KyleBing/wubi-dict-editor](https://github.com/KyleBing/wubi-dict-editor)
+## 六、相关链接
 
 __资源链接__
 - [x] Rime github 地址：  [https://github.com/rime]( https://github.com/rime)
 - [x] Rime 输入方案集合：  [https://github.com/rime/plum]( https://github.com/rime/plum)
 - [x] Rime 官方五笔方案：  [https://github.com/rime/rime-wubi](https://github.com/rime/rime-wubi)
 - [x] Rime 简拼输入方案：  [https://github.com/rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp)
+- [x] 第三方极点五笔输入方案来源： [https://github.com/KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
+- [x] 第三方QQ五笔输入方案来源： [https://github.com/SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure)
 
 __配置教程链接__
 - [x] Rime 官网：   [https://rime.im/](https://rime.im/)
 - [x] 中英切换自定义：[https://gist.github.com/lotem/2981316](https://gist.github.com/lotem/2981316)
 - [x] 簡繁配置說明關於 OpenCC ：[https://github.com/rime/home/issues/420](https://github.com/rime/home/issues/420)
+
+
