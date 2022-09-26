@@ -12,9 +12,7 @@ Rime 是个输入法集合，涵盖常用的三个平台 Windows、macOS、Linux
 
 该码表词条不是很多，很多专业性的词语可能会没有，需要自己添加。但是强烈建议不要直接导入其他来源的词库，那会严重打乱前辈们经过精心挑选设计的词库，大大降低输入体验和速度。
 
-
 ## 二、不同平台的输入法外观
-
 
 __macOS__
 
@@ -32,23 +30,19 @@ patch:
 
 <img width="500" src="https://user-images.githubusercontent.com/12215982/139873356-1a0c91a9-7343-4dd8-910b-c8f2f7003365.png">
 
-__Linux: Ubuntu__
-
-<img width="250" alt="skin-ubuntu" src="https://user-images.githubusercontent.com/12215982/131607073-0b3dfe0e-bfc8-4be0-91c7-b304702acdda.png">
-
-
 ## 三、安装
 
 ### 1. 鼠须管（macOS）
 去 [官网下载](https://rime.im/download/)，按步骤安装即可
 
-1. 下载 五笔配置文件 [https://github.com/KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
-2. macOS 上的 鼠须管 配置文件存放目录是 `~/Library/Rime`，把下载后的`rime-wubi86-jidian`内的所有文件移到 `Rime` 目录中，
+1. 下载本项目所有文件
+2. macOS 上的 鼠须管 配置文件存放目录是 `~/Library/Rime`，把下载后的所有文件移到 `Rime` 目录中，
 3. 点击状态栏上的输入法图标，下拉菜单中选择 <kbd>部署</kbd> (英文是<kbd>Deploy</kbd>），或者可以直接使用快捷键 <kbd>control</kbd> + <kbd>option</kbd> + <kbd>~</kbd>
 
 > **注意：** `Rime` 目录下的 `Build` 目录是程序生成的，不要把配置文件放在那里面，无视它即可。
 
 放的时候目录结构是这样的：
+
 ```bash
 ~/Library/
 └── Rime
@@ -62,14 +56,12 @@ __Linux: Ubuntu__
 > **注意**：对于不熟悉命令行操作的朋友， `~` 代表的是当前用户的主目录，比如我的用户名是 `kyle`, `~` 就代表 `/Users/kyle/` 这个绝对路径。
 > 需要将你下载的文件放入 `/Users/你用户名/Library/Rime` 这个目录下，了然否？
 
-
 ### 2. 小狼毫（Windows）
 
 Windows 中的配置方法：
 1. 右击状态栏中的小狼毫输入法图标，选择 <kbd>用户文件夹</kbd>
 2. 把该项目中的文件复制到里面
 3. 右击状态栏中的小狼毫输入法图标，选择 <kbd>重新部署</kbd> 即可
-
 
 ## 四、使用说明
 
@@ -120,7 +112,6 @@ Windows 中的配置方法：
 
 <img width="300" src="https://user-images.githubusercontent.com/12215982/134291024-7df6073c-ec5a-420c-bcd1-2e63ea33d04b.jpg"/>
 
-
 ## 五、常见自定义功能
 所有配置说明都在配置文件中说明了，如果有其它问题可以在 `issue` 中提出，或者在群里（[QQ群：878750538](https://jq.qq.com/?_wv=1027&k=st8cY2sI)） 讨论，有需要就 `@十月`，一定要 `@` 哟，不然我看不到的
 
@@ -154,13 +145,10 @@ Windows 中的配置方法：
 
 另一种是使用工具。Rime 默认是没有词条管理工具的，所以就有人写了一些第三方工具，比如[五笔词条工具](https://github.com/KyleBing/wubi-dict-editor)。
 
-
-<img width="812" alt="Screen Shot 2021-11-22 at 19 22 45" src="https://user-images.githubusercontent.com/12215982/143464548-0458c637-ce41-450e-8faa-e826dd1fa5f3.png">
-
 ### 5. 输出系统变量
 自 Rime `v0.13` 之后可自定义输出系统变量，如日期等
 
-文件 [`rime.lua`](https://github.com/KyleBing/rime-wubi86-jidian/blob/master/rime.lua) 盛放的是调用的方法，你需要在相应的 `XXXX.schema.yaml` 文件的 `engine`/`translators` 字段添加一些东西，可以参阅本库的 [`wubi86_jidian.schema.yaml`](https://github.com/KyleBing/rime-wubi86-jidian/blob/master/wubi86_jidian.schema.yaml) 文件。
+文件 [`rime.lua`](https://github.com/missdeer/rime-config/blob/master/rime.lua) 存放的是调用的方法，你需要在相应的 `XXXX.schema.yaml` 文件的 `engine`/`translators` 字段添加一些东西，可以参阅本库的 [`wubi86_jidian.schema.yaml`](https://github.com/missdeer/rime-config/blob/master/wubi86_jidian.schema.yaml) 文件。
 具体 `rime.lua` 文件说明参阅这里： [https://github.com/hchunhui/librime-lua/blob/master/sample/lua/date.lua](https://github.com/hchunhui/librime-lua/blob/master/sample/lua/date.lua)
 
 ### 6. 开启自动造词
@@ -169,9 +157,9 @@ Windows 中的配置方法：
 
 > **注意**: 这样会关闭自动上屏，顶字上屏的功能。
 
-需要修改 `wubi86_jidian.schema.yaml` 下面几个内容
+需要修改 `wubi86_jidian.schema.yaml` 或 `qq86wubi.schema.yaml` 下面几个内容
 
-```bash
+```yaml
 speller:
   # max_code_length: 4                 # 四码上屏
   auto_select: false                   # 自动上屏
@@ -182,7 +170,6 @@ translator:
   enable_encoder: true
 
 ```
-
 
 ## 六、相关链接
 
