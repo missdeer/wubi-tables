@@ -1,0 +1,236 @@
+---
+name: fan86wubi_extra
+note: "扩展词库"
+version: "2022-12-21"
+last_edit_time: "2022-12-21"
+
+sort: original
+# 码表的排序方式: by_weight 权重，original 原始顺序
+
+# 码长内容格式：字词 键码  权重 （中间是tab，不是空格）
+# 注释只能另起一行写，不能在词条后面写
+
+...
+
+# --- 专业名词 ---
+# 计算机相关
+跨域	khfa
+键帽	qvmh
+应用程序	yety
+翻墙	toff
+增删改查	fmns
+父类	wqod
+子类	bbod
+抽象类	rqod
+形参	gacd
+实参	pucd
+实体类	pwod
+swift	swft
+开发者	gnft
+
+
+## emoji
+🙂	tmtt		微笑
+🙃	tmtt		微笑
+😆	ddtt		大笑
+😂	ttkk		笑哭
+🤣	ttkk		笑哭
+🥰	ep		爱
+🤩	kffg		哇
+🥶	dndn		尴尬
+🤗	tada		tada
+👍	xk		强
+👍	rhk		牛
+😭	ddkk		大哭
+🥳	ydpy		庆祝
+😎	tdgk		智囊
+😉	ryhv		挤眼
+😉	ryhv		眨眼
+😊	skep		可爱
+😏	klkl		嘿嘿
+😝	kftd		吐舌
+😛	kftd		吐舌
+😋	vbkt		好吃
+😚	usus		亲亲
+😘	epwq		爱你
+😗	usus		亲亲
+😙	usus		亲亲
+🤩	wow		wow
+😤	tgrn		生气
+😳	ks		呆
+😡	tgrn		生气
+🤬	kkww		骂人
+🤫	khag		嘘
+🤔	lnft		思考
+🤗	tada		tada
+🤗	wala		wala
+😓	ifh		汗
+🤮	tgug		生病
+🤒	ntoa		发烧
+🤧	thiu		鼻涕
+🤧	dgjh		感冒
+👽	qjww		外星人
+🤐	ufkh		闭嘴
+🥱	kwqw		哈欠
+🥱	lsbn		困了
+😴	htip		睡觉
+😪	htip		睡觉
+😪	htud		睡着
+💀	meme		骷髅
+💩	ococ		粑粑
+💩	wgwg		便便
+👻	rqc		鬼
+😈	ahgo	邪恶
+✌🏻	bbh		耶
+✌🏻	yeah		耶
+🤦🏻‍♂️	kdb		呃
+🙏🏻	pypy		祈祷
+⭐	ggjt		五星
+
+## emoji动物
+🐶	qtqk		狗
+🐱	qtal		猫
+🐭	vnu		鼠
+🐠	qgf		鱼
+🐯	ftha		虎
+🦖	amdx		恐龙
+🐞	jsjh		螵虫
+🐙	ujqg		章鱼
+🐔	wccq		公鸡
+🦃	oocq		火鸡
+🐑	xrud		绵羊
+🐬	itee		海豚
+🐘	ddqj		大象
+🦎	nkha		壁虎
+🦌	ynj		鹿
+🐵	qtbb		猴子
+🐺	qty		狼
+🦉	quyw		猫头鹰
+🐳	qgqg		鲸鱼
+🐛	ttjh		毛毛虫
+🐜	jcjy		蚂蚁
+🦇	jyjg		蝙蝠
+🦕	amdx		恐龙
+🦒	tcyn		长颈鹿
+🕸	jjmq		蜘蛛网
+🦜	mmga		鹦鹉
+🐤	ihcq		小鸡
+🐡	isee		河豚
+🦞	dxjg		龙虾
+🦘	wavn		袋鼠
+🦙	udcp		羊驼
+🐪	ctcp		骆驼
+🦐	jghy		虾
+🐊	qgqg		鳄鱼
+🐲	dxn		龙
+🦓	gycn		斑马
+🦏	iscn		河马
+🦑	qnma		乌贼
+🦂	jjbb		蝎子
+🦛	iscn		河马
+🐏	xrud		绵羊
+🦈	iiqg		鲨鱼
+🦭	itee		海豹
+🐉	dxn		龙
+🦬	rhk		牛
+🦫	vnu		鼠
+🦩	mspt		丹顶鹤
+🦧	qtqt		猩猩
+🐆	eeqy		豹
+🦚	bniw		孔雀
+🐻‍❄️	ceqt		熊猫
+🦢	trng		鹅
+🐋	qgqg		鲸鱼
+🦦	scng		树懒
+🐈‍⬛	qtal		猫
+🐚	itjl		海螺
+🏇🏻	pfnc		赛马
+🐢	qnqj		乌龟
+🦆	lqbb		鸭子
+🕊	wgbb		鸽子
+🦍	qtqt		猩猩
+🐐	mmud		山羊
+🦄	qqul		独角兽
+🦋	jdja		蝴蝶
+🐄	verh		奶牛
+🐮	rhk		牛
+🐕‍🦺	nydg		导盲犬
+🦮	qtqk		狗
+🐕	qtqk		狗
+🐹	vnu		鼠
+🐹	wbvn		仓鼠
+🐽	qtfj		猪
+🐷	qtfj		猪
+🙈	rddm		掩面
+🙈	rgew		捂脸
+🦔	gmqt		刺猬
+
+## emoji水果
+🍏	agjs		苹果
+🍎	agjs		苹果
+🍐	tjs		梨
+🍊	swbb		橙子
+🍋	spsa		柠檬
+🍌	tjaw		香蕉
+🍇	aqaq		葡萄
+🍓	ajat		草莓
+🫐	ajat		蓝莓
+🍈	kprc		哈密瓜
+🍒	smsi		樱桃
+🍑	sibb		桃子
+🥭	ayjs		芒果
+🍍	aial		菠萝
+🥥	sbbb		椰子
+🥝	qqsi		猕猴桃
+🍆	albb		茄子
+🥑	rijs		牛油果
+🥦	suaw		西兰花
+🥦	aeaw		菜花
+🥬	imae		油菜
+🥒	amrc		黄瓜
+🌶	ugsh		辣椒
+🫑	aesu		菜椒
+🌽	gyoy		玉米
+🥕	dahh		胡萝卜
+🧄	ddaf		大蒜
+🧄	afi		蒜
+🧅	iuaq		洋葱
+🥔	ffgk		土豆
+🍠	xaal		红薯
+🍠	fbrc		地瓜
+🥚	cqnh		鸡蛋
+🍗	cqev		鸡腿
+🍭	ssoy		棒棒糖
+🥢	tnbb		筷子
+🍺	kris		啤酒
+🍻	kris		啤酒
+🥂	kjis		啤酒
+🥂	kjis		干杯
+🥮	eeqn		月饼
+
+## emoji运动
+⚽️	khgf		足球
+🏀	tjgf		篮球
+🏈	ssgf		橄榄球
+⚾️	sdgf		棒球
+🥎	sdgf		棒球
+🎾	mqgf		网球
+🏐	rdgf		排球
+🏉	ssgf		橄榄球
+🥏	nute		飞盘
+🎱	ckgf		台球
+🏓	rrgf		乒乓球
+🏸	ntgf		羽毛球
+⛳️	yqfw		高尔夫
+🪁	mqtq		风筝
+🤿	ifii		潜水
+⛷	imfv		滑雪
+🎿	imfv		滑雪
+🏂	imfv		滑雪
+🏂	ujsr		单板
+🥌	uifp		冰壶
+⛸	imui		滑冰
+🛹	imsr		滑板
+🥊	udfm		拳击
+🥋	kuut		跆拳道
+🎮	iyca		游戏
