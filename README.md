@@ -1,8 +1,9 @@
 [Fcitx5-Android](https://github.com/fcitx5-android/fcitx5-android)使用的码表
 
-目前包括2个码表：
+目前包括3个码表：
 1. 极点五笔86
 2. QQ五笔86
+3. 樊86五笔，基于QQ五笔86的词频顺序合并了极点五笔86的词库
 
 导入方法见：https://fcitx5-android.github.io/faq/
 
