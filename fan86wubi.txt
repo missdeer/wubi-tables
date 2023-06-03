@@ -3742,7 +3742,6 @@ auih 邯郸学步
 auir 革新派
 auj 莘
 aujq 荒郊野外
-auji 东北师范大学
 aujr 蕲
 aujn 薏
 aujf 蕫
@@ -10932,8 +10931,6 @@ dian 耟
 diaq 大兴区
 dib 耔
 dibb 耗子
-dibb 石河子
-diby 石河子市
 dibg 耔
 dibj 耒阳
 dic 耙
@@ -12160,13 +12157,9 @@ dpxg 牵线
 dpxn 砣
 dpxc 三字经
 dpxy 牵缠
-dpyt 达州
-dpyf 石家庄
-dpyy 石家庄市
 dpyy 非官方
 dpys 达摩
 dpyt 大家庭
-dpya 布宜诺斯艾利斯
 dpyq 碗底
 dpyw 有神论
 dpye 百衲衣
@@ -12830,7 +12823,6 @@ duc 磙
 duce 磙
 dud 磋
 dudm 碰面
-dudi 厦门大学
 duda 磅礴
 duda 磳碟
 dudu 碰碰
@@ -19680,7 +19672,6 @@ fsdw 无可奈何
 fsdd 无可厚非
 fsdr 真相大白
 fsdi 喜极而泣
-fsdi 吉林大学
 fsdy 无可非议
 fsdt 无可奉告
 fsdf 无可奈何花落去
@@ -20713,7 +20704,6 @@ fyce 堉
 fyds 教育厅
 fydd 支离破碎
 fydi 无为而治
-fydi 南京大学
 fydm 墩布
 fydr 零敲碎打
 fydw 无遮大会
@@ -20743,7 +20733,6 @@ fyix 土豪劣绅
 fyj 霁
 fyjg 考试题
 fyjn 霭
-fyji 南京师范大学
 fyjl 土库曼
 fyjf 土库曼斯坦
 fyjf 霽
@@ -23014,7 +23003,6 @@ gidr 还原
 gidq 不爽
 gidy 不太
 gidn 不成
-gidi 武汉大学
 gidr 一波三折
 gidd 不厌
 gidq 一举成名
@@ -24876,7 +24864,6 @@ gqdh 残破
 gqds 五角大楼
 gqdf 死磕
 gqdg 天外有天
-gqdi 青岛大学
 gqdi 死耗
 gqdo 死灰
 gqdh 琋
@@ -30068,7 +30055,6 @@ iidx 沙龙
 iidc 激活码
 iidk 津津有味
 iidi 水泵
-iidi 浙江大学
 iidg 沙石
 iidg 水泥厂
 iidf 水压
@@ -31141,7 +31127,6 @@ infg 漏雨
 info 当局者迷
 infb 泥地
 infy 泥坑
-infv 法属圭亚那
 infr 泥垢
 infg 沑
 infj 潳
@@ -32933,7 +32918,6 @@ iudh 洋
 iudi 满头大汗
 iudp 法兰克福
 iudr 浓妆艳抹
-iudi 汕头大学
 iudf 润唇
 iudm 洋布
 iuda 溠
@@ -33334,7 +33318,6 @@ iwcc 沧桑
 iwcf 雀圣
 iwcn 滃
 iwdl 兴奋
-iwdi 清华大学
 iwdc 源代码
 iwdn 兴盛
 iwdh 涂在
@@ -33719,7 +33702,6 @@ iyii 流淌
 iyir 流派
 iyik 漩涡
 iyib 泳池
-iyib 滨州学院
 iyif 流汗
 iyiq 流光
 iyin 淤泥
@@ -33978,7 +33960,6 @@ jabj 昻
 jack 蜡台
 jad 蜞
 jadg 星期三
-jadi 师范大学
 jada 蟒
 jadw 蜞
 jadf 旷世奇才
@@ -39017,7 +38998,6 @@ klpt 中国农业银行
 klpu 别被
 klpe 别家
 klpv 另案
-klpb 中国社会科学院
 klpg 另定
 klpy 嗹
 klqh 另外
@@ -39044,9 +39024,7 @@ kltf 另行
 kltq 别称
 kltq 中国特色
 klth 别处
-kltb 中国科学院
 kltp 别管
-klti 中国科技大学
 kltt 别笑
 kltf 另选
 klud 喂养
@@ -39059,7 +39037,6 @@ klww 别人
 klww 中国人
 klwn 中国人民
 klwt 中国人民银行
-klwi 中国人民大学
 klwp 中国人民解放军
 klwy 喂食
 klwn 跨国公司
@@ -39097,7 +39074,6 @@ kmca 哈贝马斯
 kmcy 吺
 kmd 喘
 kmdj 喘
-kmdi 中山大学
 kmdh 吊在
 kmdf 嘊
 kmdg 啱
@@ -39408,8 +39384,6 @@ kqgk 史事
 kqgu 鸣锣开道
 kqhh 史上
 kqi 史
-kqip 哈尔滨
-kqiy 哈尔滨市
 kqip 史学
 kqii 吹水
 kqjg 咰
@@ -40040,7 +40014,6 @@ kwde 只有
 kwdh 只在
 kwde 唯有
 kwdb 只顾
-kwdi 哈佛大学
 kwdr 只愿
 kwdp 哈达
 kwdw 鄂伦春
@@ -40397,7 +40370,6 @@ lbbb 男孩子
 lbbt 轰隆隆
 lbcy 輙
 lbd 囝
-lbdi 国防大学
 lbgt 略逊一筹
 lbic 男子汉
 lbif 国际法
@@ -41638,7 +41610,6 @@ lkdf 加压
 lkdn 加成
 lkdj 加厚
 lkdc 加码
-lkdi 四川大学
 lkdw 回春
 lkdx 贺龙
 lkdg 圆石
@@ -42671,7 +42642,6 @@ ltnd 囤积居奇
 ltnk 力避
 ltol 轓
 ltpv 图案
-ltpg 加利福尼亚
 ltph 因循守旧
 ltpf 田径赛
 ltqv 力争
@@ -43164,8 +43134,6 @@ madg 内蒙古
 madt 典故
 madm 曲面
 madd 嵌套
-madi 山东大学
-mada 内蒙古自治区
 mads 曲奇
 madh 嵌在
 madt 賊
@@ -43201,7 +43169,6 @@ maia 曲江
 maiu 岽
 maii 曲水
 mais 曲酒
-maji 山东师范大学
 majh 刪
 majn 嶱
 majy 贎
@@ -44152,7 +44119,6 @@ mhyn 帐户
 mhyw 由谁
 mhyf 幮
 mi 峭
-midi 同济大学
 midt 巌
 mie 峭
 mieg 峭
@@ -51033,10 +50999,8 @@ pdhk 豁
 pdhh 寄上
 pdho 鶷
 pdhu 寷
-pdia 富春江
 pdil 安邦治国
 pdid 宏源
-pdit 宁夏省
 pdiw 宏兴
 pdix 宠溺
 pdjh 害虫
@@ -51048,8 +51012,6 @@ pdkk 寄存器
 pdkh 豁嘴
 pdlk 寄回
 pdlt 宏图
-pdla 宁夏回族自治区
-pdly 宁夏回族
 pdls 寕
 pdmw 割肉
 pdnr 害怕
@@ -53776,7 +53738,6 @@ pxfm 實
 pxge 字母表
 pxgj 冠绝一时
 pxis 塞纳河
-pxki 初级中学
 pxkk 补给品
 pxpv 迱
 pxrq 它的
@@ -58454,8 +58415,6 @@ qujn 鐿
 qujq 鏡
 quk 锐
 qukq 锐
-qukd 乌兹别克
-qukf 乌兹别克斯坦
 qukm 饲养员
 qukg 锫
 qukk 锐器
@@ -65254,7 +65213,6 @@ sacf 棋圣
 sacq 概莫能外
 sad 棋
 sadw 棋
-sadl 哥斯达黎加
 sadn 椹
 sadm 柜面
 sady 模态
@@ -65404,7 +65362,6 @@ satf 横行
 sath 模版
 sate 棋盘
 satq 桡
-sata 西藏自治区
 satg 横生
 satj 枕戈待旦
 sath 樥
@@ -71913,7 +71870,6 @@ tjca 得劲
 tjcw 复验
 tjdr 复原
 tjdg 复古
-tjdi 复旦大学
 tjdh 香艳
 tjda 冬虫夏草
 tjdu 冬暖夏凉
@@ -78813,7 +78769,6 @@ utad 首期
 utad 疾苦
 utab 端午节
 utag 郑重其事
-utad 美特斯邦威
 utaq 产区
 utad 产期
 utal 首功
@@ -79761,7 +79716,6 @@ uxxg 慈母
 uxxf 北疆
 uxxg 鹚
 uxxa 凝练
-uxxa 新疆维吾尔自治区
 uxxb 孳
 uxxp 凝缩
 uxxo 鶿
@@ -79810,7 +79764,6 @@ uycf 门对
 uycw 辩难
 uyd 訚
 uyd 誾
-uydi 北京大学
 uydd 六大
 uydm 门面
 uydm 单方面
@@ -79868,7 +79821,6 @@ uyig 辨清
 uyiy 凉
 uyju 北京时间
 uyjj 六日
-uyji 北京师范大学
 uyjf 门里
 uyje 辩明
 uyjg 咨询师
@@ -80618,7 +80570,6 @@ vfdt 那帮
 vfdg 建厂
 vfdh 那在
 vfdm 那面
-vfdi 暨南大学
 vfda 那厮
 vfdp 群起而攻之
 vfdc 奸雄
@@ -82437,7 +82388,6 @@ wajt 借鉴
 wajn 供电
 waje 供暖
 waji 众擎易举
-waji 华东师范大学
 wajv 偃
 wajf 袋里
 wakk 借口
@@ -83021,7 +82971,6 @@ wdrq 做鬼
 wdrk 做操
 wdrf 优抚
 wdry 佑护
-wdrc 俄克拉荷马
 wdrd 人寿年丰
 wdri 傆
 wds 倚
@@ -83310,7 +83259,6 @@ wfjh 舒畅
 wfjg 会晤
 wfjg 会师
 wfjj 值日
-wfji 华南师范大学
 wfjj 祭日
 wfjl 舒曼
 wfjn 传电
@@ -84637,8 +84585,6 @@ wlbp 八国联军
 wlcn 伽马
 wlct 人困马乏
 wldg 個
-wldr 伯罗奔尼撒
-wlem 债转股
 wlfn 停车场
 wlft 侵略者
 wlg 佃
@@ -84648,7 +84594,6 @@ wlge 偎
 wlge 儇
 wlh 伡
 wlh 俥
-wljd 佛罗里达
 wlk 伽
 wlkg 伽
 wlkk 倒胃口
@@ -85501,8 +85446,6 @@ wryt 儌
 ws 休
 wsad 何苦
 wsad 何其
-wsad 佳木斯
-wsay 佳木斯市
 wsaa 体式
 wsbp 体院
 wsbb 命根子
@@ -87336,7 +87279,6 @@ wyit 领海
 wyij 含混
 wyiv 停当
 wyia 信汇
-wyib 人文学院
 wyid 信源
 wyii 邻水
 wyix 领涨
@@ -89384,9 +89326,6 @@ xpim 张之洞
 xpjy 缩影
 xpjc 缩紧
 xpjg 缩量
-xpkk 张家口
-xpky 张家口市
-xplw 张家界
 xplt 缩略
 xplk 缩回
 xplh 緷
@@ -94345,7 +94284,6 @@ ysud 魔头
 ysut 魔道
 ysuw 麻疹
 ysud 摩羯
-ysua 广西壮族自治区
 ysus 订亲
 ysvq 订婚
 ysvv 魔女
@@ -95647,10 +95585,8 @@ yykh 文中
 yykm 议员
 yykm 文员
 yykq 文史
-yykq 齐齐哈尔
 yykk 磨磨蹭蹭
 yykg 文号
-yyky 齐齐哈尔市
 yykm 评论员
 yykw 言喻
 yykd 广顺
@@ -97158,7 +97094,6 @@ irmq 派购
 irnd 激剧
 irsw 汽枪
 iruy 汽门
-irxy 小泉纯一郎
 isax 酒药
 isfh 漂越
 isfw 河埠
@@ -97289,7 +97224,6 @@ jnty 电稿
 jnuf 电熨斗
 jnyu 日心说
 joce 显能
-joke 嘦巭好，兲嫑跑*_*
 jopa 显宦
 jopd 显豁
 jowu 显位
@@ -98251,7 +98185,6 @@ qkan 鱼跃鸢飞
 qkap 劬劳
 qkef 名脚
 qkhc 铝皮
-qkka 狗嘴吐不出象牙
 qkqh 多吃多占
 qkqn 锅饼
 qkrv 铝热
@@ -98416,7 +98349,6 @@ rdqa 拔锚
 rdrs 排打
 rdrv 拜扫
 rduy 扰闹
-rdyh 拉大旗作虎皮
 rdyk 拜识
 rdyw 拜认
 rean 授艺
@@ -99831,15 +99763,9 @@ yrlp 诛连
 yrlx 诉累
 yrnj 亵慢
 yrsy 诉述
-yrun 哀的美敦书
-ysdc 摩友
-ysfh 订址
-ysfp 麻索
 yskv 磨叨
-ysmh 魔术贴
 ysng 魔怔
 ysnt 魔性
-ysny 就可以
 ytay 放荒
 ubun Ubuntu
 wind Windows
