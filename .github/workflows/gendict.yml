@@ -1,0 +1,38 @@
+name: Generate dict for fcitx5 Android
+
+on:
+  push:
+    paths:
+      - '**.txt'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+
+    - name: Install libime-bin
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libime-bin
+
+    - name: Run libime_tabledict on .txt files and push generated files
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}     
+      run: |
+        git config --global user.email "github-action@github.com"
+        git config --global user.name "GitHub Action"
+        
+        shopt -s globstar
+        for file in **/*.txt; do
+          libime_tabledict $file "${file%.txt}.main.dict"
+          git add "${file%.txt}.main.dict"
+        done
+        
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        git commit -m "Automatically generated .main.dict files at $(date)" *.dict
+        git push origin  ${GITHUB_REF#refs/heads/}
