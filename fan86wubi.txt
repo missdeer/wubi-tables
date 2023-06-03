@@ -13,12 +13,10 @@ aa 戒
 aaa 工
 aaan 工艺
 aaaa 工
-aaah 葡萄牙
 aaar 工匠
 aaad 工期
 aaaa 恭恭敬敬
 aaau 工薪
-aaaw 斯蒂芬
 aaal 花花世界
 aaae 黄花菜
 aaaq 工区
@@ -26,16 +24,12 @@ aaay 劳苦功高
 aaaw 茉莉花
 aaag 工巧
 aaaa 花花草草
-aaaa 劳斯莱斯
-aaaf 某某某
 aaak 工勤
 aaar 菚
-aabb 式子
 aabg 草草了事
 aabw 戒除
 aabu 茕茕孑立
 aabi 芙蓉出水
-aabp 区医院
 aad 式
 aad 匞
 aad 葚
@@ -48,14 +42,12 @@ aadu 落花有意
 aadn 慝
 aadw 萁
 aadn 葚
-aadm 花花太岁
 aadd 工大
 aade 蘛
 aadi 藄
 aadr 茙
 aaei 勤工助学
 aaeb 花花肠子
-aaeu 萧敬腾
 aaet 节节胜利
 aaf 苷
 aafb 工地
@@ -63,9 +55,7 @@ aafd 甙
 aaff 苷
 aafg 葡萄干
 aafw 工夫
-aafh 苏东坡
 aafn 工场
-aafc 工运
 aaff 蓬蓬勃勃
 aafy 落花无言
 aafo 蘜
@@ -74,7 +64,6 @@ aagk 工整
 aagx 戒毒
 aago 戒严
 aagp 勤劳致富
-aagy 七七事变
 aagg 工工整整
 aagt 攻其不备
 aagw 恭敬不如从命
@@ -89,11 +78,9 @@ aahm 藖
 aahc 菣
 aahh 茝
 aahh 茞
-aahi 工频
 aahl 藍
 aahm 虦
 aahy 蕥
-aais 葡萄酒
 aaib 莘莘学子
 aaii 落花流水
 aais 戒酒
@@ -104,7 +91,6 @@ aaig 区区小事
 aaif 工潮
 aajh 蒸蒸日上
 aajf 工时
-aajj 工日
 aajt 工蜂
 aajy 工蚁
 aajh 剗
@@ -112,11 +98,9 @@ aak 戒
 aakk 工艺品
 aakg 蓳
 aakk 蓲
-aalt 工力
 aalf 盞
 aamq 戒网
 aamv 节节败退
-aamm 黄花岗
 aama 工贼
 aamf 蘳
 aamg 蘣
@@ -124,13 +108,10 @@ aamv 蒆
 aamy 茿
 aan 苣
 aany 戒心
-aany 散散心
 aanf 苣
-aanr 草草收兵
 aanh 戒惧
 aans 葉
 aaog 工业
-aaoy 葡萄糖
 aaol 戒烟
 aaou 工料
 aape 工农
@@ -141,7 +122,6 @@ aapw 落落寡合
 aaqy 工贸
 aaqk 匿名
 aaqg 工钱
-aaqy 葫芦岛
 aaqd 茫茫然
 aaqb 苉
 aaqc 戒色
@@ -153,7 +133,6 @@ aarh 戒掉
 aarg 工兵
 aarl 芭蕾舞
 aarp 工控
-aaru 芽接
 aasu 式样
 aass 花草树木
 aase 工棚
@@ -168,13 +147,11 @@ aatu 工科
 aatv 戒律
 aati 蓬荜生辉
 aatq 荛
-aath 警匪片
 aata 工长
 aatt 工笔
 aats 戒条
 aatm 式微
 aatn 蘙
-aaty 切切私语
 aau 芅
 aauq 工资
 aaum 工商
@@ -184,7 +161,6 @@ aauv 黄花闺女
 aauk 工部
 aauq 欺世盗名
 aauj 工单
-aauj 工间
 aavv 勤勤恳恳
 aavn 戒刀
 aavb 苆
@@ -198,19 +174,13 @@ aawi 勤工俭学
 aawv 工分
 aawd 工段
 aawn 劳燕分飞
-aaws 欧共体
-aawu 茹苦含辛
 aawv 匶
 aaww 莁
 aaxj 医药费
 aaxx 花花绿绿
 aaxf 蒙蒙细雨
 aaxg 警戒线
-aaxl 工细
 aayc 工序
-aayp 花落谁家
-aayy 斯斯文文
-aaym 东莞市
 aayt 工薪族
 aayo 匿迹
 aayn 工房
@@ -235,8 +205,6 @@ abf 茸
 abf 芓
 abfc 节支
 abft 蒸煮
-abgq 节烈
-abgh 节下
 abgi 蔯
 abh 邛
 abh 卭
@@ -248,7 +216,6 @@ abit 节省
 abio 蒸
 abir 蒸汽
 abii 节水
-abim 节油
 abiy 节流
 abib 菡
 abiu 荪
@@ -264,23 +231,18 @@ abn 芤
 abnt 蒸发
 abnb 芤
 abnh 蒸蛋
-aboa 节煤
 abpr 攻子之盾
 abqn 蒸馏
-abqi 萨尔
 abqk 蒸锅
 abr 菰
 abrm 节制
 abrg 节后
 abrr 节拍
 abrn 节气
-abru 萨拉
 abry 菰
 abrk 节操
-absg 节本
 abtd 蒸笼
 abtf 节选
-abtr 萨特
 abtv 节律
 abtg 蕯
 abti 蓀
@@ -293,14 +255,10 @@ abug 薩
 abuj 蘵
 abuy 荫凉
 abv 匜
-abvx 萨姆
-abvi 节录
-abvv 节妇
 abww 节俭
 abwy 节食
 abwt 节余
 abwn 节假
-abwh 欧阳修
 abwc 蔭
 abwt 蒢
 abxq 节约
@@ -328,11 +286,8 @@ acbm 蕷
 acbo 鶜
 acbs 葇
 acck 茅台
-accc 欧巴桑
 acce 蔘
-acdp 斯巴达
 acdm 茅厕
-acdd 斯巴达克
 acep 蓪
 acfy 茅坑
 acfg 茎干
@@ -341,12 +296,9 @@ acis 茅台酒
 acis 七台河
 ack 苔
 ackf 苔
-ackw 雅马哈
 acks 葈
 acmm 茅山
 acng 茅屋
-acnt 功能性
-acos 节能灯
 acpr 勤能补拙
 acrf 茅盾
 acse 茅棚
@@ -3887,7 +3839,6 @@ auyi 燕京
 auyn 工商户
 auya 蒂诺
 auyf 莘庄
-auym 邯郸市
 auyt 东北话
 av 切
 av 萧
@@ -4712,7 +4663,6 @@ ayxy 蕹
 ayxq 七言绝句
 ayyn 荒谬
 ayyv 荒唐
-ayym 苏州市
 ayyn 荒废
 ayyt 荒诞
 ayya 蓄谋
@@ -8590,7 +8540,6 @@ cux 骥
 cuxw 骥
 cuxw 驥
 cuyu 难道说
-cuym 台北市
 cuys 巴音郭楞
 cuyw 马前卒
 cuyg 双关语
@@ -8862,7 +8811,6 @@ cyxj 通讯费
 cyy 馼
 cyyi 驻京
 cyyw 圣诞夜
-cyym 台州市
 d 在
 d 大
 d 石
@@ -9665,7 +9613,6 @@ ddyt 大话
 ddyf 大计
 ddyd 大庆
 ddym 大调
-ddym 太原市
 ddyq 大义
 ddyb 大亨
 ddyc 左右为难
@@ -10206,8 +10153,6 @@ dfxa 唇红
 dfxu 磕绊
 dfxy 压纹
 dfy 压
-dfym 成都市
-dfym 大城市
 dfyi 压
 dfyn 奢望
 dfyt 奔放
@@ -11135,7 +11080,6 @@ diyt 破涕为笑
 diyf 耕读
 diye 耲
 diyh 大酒店
-diym 威海市
 dj 百
 djaw 百花
 djae 韭菜
@@ -11519,7 +11463,6 @@ dlww 大男人
 dlxc 历经
 dlxa 历练
 dlxi 磥
-dlym 大连市
 dlyt 胡图族
 dm 面
 dma 碘
@@ -12227,7 +12170,6 @@ dpya 布宜诺斯艾利斯
 dpyq 碗底
 dpyw 有神论
 dpye 百衲衣
-dpym 泰安市
 dpyn 大客户
 dpyn 牵记
 dq 克
@@ -13016,7 +12958,6 @@ dux 磁
 duxx 磁
 duxc 古兰经
 duxn 礠
-duym 厦门市
 duym 有道词典
 duyu 在商言商
 duyg 胡彦斌
@@ -15604,7 +15545,6 @@ expc 脱缰之马
 exsy 肺结核
 extb 膷
 exxn 肶
-exym 县级市
 exyh 助纣为虐
 exyp 脂膏
 exyv 朋比为奸
@@ -16339,7 +16279,6 @@ fcyu 却说
 fcyl 无能为力
 fcyn 动词
 fcyh 却让
-fcym 南通市
 fcyw 支座
 fcyb 支离
 fcyy 动议
@@ -18161,7 +18100,6 @@ fjyx 坦率
 fjyi 进京
 fjyg 韩语
 fjym 埋设
-fjym 南昌市
 fjyy 韩文
 fjyv 韩庚
 fjyy 塌方
@@ -18466,7 +18404,6 @@ flxe 动车组
 fly 塄
 flym 协调
 flyy 协议
-flym 直辖市
 flya 雷诺
 flyt 雷州
 flyn 塄
@@ -19288,7 +19225,6 @@ fpya 过度
 fpym 过高
 fpyw 过夜
 fpyn 过户
-fpym 南宁市
 fpyu 老实说
 fpyt 老实话
 fpyu 过谦
@@ -19629,7 +19565,6 @@ fqyi 均应
 fqyy 无言
 fqyc 无序
 fqyn 无望
-fqym 无锡市
 fqyn 远望
 fqyq 无底
 fqyt 朝鲜族
@@ -19806,7 +19741,6 @@ fswr 零配件
 fswi 无机化学
 fswx 无核化
 fsxr 无可比拟
-fsym 吉林市
 fsyy 霸权主义
 fsyk 老相识
 ft 才
@@ -20758,7 +20692,6 @@ fxwx 无纸化
 fxxr 堦
 fxxx 霛
 fxyf 超级市场
-fxym 地级市
 fxyx 壪
 fy 坟
 fyaj 坟墓
@@ -20889,7 +20822,6 @@ fywm 颠鸾倒凤
 fywf 埣
 fyxj 培训费
 fyy 坟
-fyym 南京市
 g 一
 g 王
 ga 开
@@ -22148,7 +22080,6 @@ gfye 球衣
 gfys 不堪设想
 gfyw 迂腐
 gfym 球市
-gfym 开封市
 gfyn 天地良心
 gfyp 画地为牢
 gfyc 再教育
@@ -23441,7 +23372,6 @@ gixg 不纯
 gixc 不经
 gixt 还乡
 gixl 琐细
-giym 天津市
 giyv 不良
 giyi 不应
 giyi 不就
@@ -23460,7 +23390,6 @@ giyh 不让
 giym 不高
 giyb 不熟
 giyf 不计
-giym 武汉市
 giyf 不讲
 giyb 不离
 giyk 不识
@@ -25234,7 +25163,6 @@ gqyn 死亡
 gqyt 一句话
 gqyl 列为
 gqyw 熬夜
-gqym 青岛市
 gqyn 残废
 gqya 列席
 gqyy 玖
@@ -26460,7 +26388,6 @@ gyyt 一席话
 gyyn 班房
 gyyh 不识庐山真面目
 gyyf 五言诗
-gyym 惠州市
 h 上
 h 目
 ha 虎
@@ -27280,7 +27207,6 @@ hiwr 叔伯
 hiwe 频仍
 hiww 上海人
 hixg 叔母
-hiym 上海市
 hiyx 频率
 hiyn 眺望
 hiym 步调
@@ -28690,7 +28616,6 @@ ibw 滁
 ibwt 光阴似箭
 ibwt 滁
 ibxk 洛阳纸贵
-ibym 沈阳市
 ibyq 涵义
 ibyt 滁州
 ibyt 池州
@@ -29438,10 +29363,8 @@ ifxn 法纪
 ifxa 潮红
 ifxj 法旨
 ifxy 法统
-ifym 深圳市
 ifyt 法庭
 ifyg 法语
-ifym 济南市
 ifyt 潮州
 ifyy 法文
 ifyo 污迹
@@ -30775,7 +30698,6 @@ ikve 溃退
 ikwf 演唱会
 ikwe 省吃俭用
 ikwv 澡盆
-ikym 海口市
 ikyt 涡旋
 ikyy 小品文
 il 渐
@@ -30882,7 +30804,6 @@ ilyj 添加剂
 ilyo 渐变
 ilyh 深思熟虑
 ilyr 流连忘返
-ilym 省辖市
 im 没
 ima 澧
 imai 没落
@@ -33219,7 +33140,6 @@ iuxn 濨
 iuyk 潜意识
 iuya 满意度
 iuyt 漳州
-iuym 汕头市
 iuyw 水瓶座
 iuyn 洋房
 iuyy 洋文
@@ -34032,7 +33952,6 @@ iyyn 流氓
 iyyb 游离
 iyyn 游记
 iyym 沪市
-iyym 温州市
 iyyu 游说
 iyyy 流言
 iyyt 流放
@@ -35269,7 +35188,6 @@ jiwf 最小值
 jiwn 旱涝保收
 jixg 电源线
 jixu 曳光弹
-jiym 临沂市
 jj 昌
 jja 曝
 jjad 日期
@@ -35434,7 +35352,6 @@ jjyw 日夜
 jjyg 日语
 jjyy 日文
 jjyy 时时刻刻
-jjym 昆明市
 jjyy 日方
 jjyy 日日夜夜
 jjyp 晶亮
@@ -35625,7 +35542,6 @@ jmwk 蠵
 jmxa 映红
 jmy 蛽
 jmyn 电风扇
-jmym 昆山市
 jmyg 蚒
 jn 电
 jnaa 电工
@@ -37170,7 +37086,6 @@ kbuk 中联部
 kbuy 叩门
 kbud 叩头
 kbxu 中子弹
-kbym 贵阳市
 kbyt 叩谢
 kbyw 叩诊
 kc 吧
@@ -39281,7 +39196,6 @@ kmxg 吊线
 kmxk 吊绳
 kmy 呗
 kmy 唄
-kmym 中山市
 kmyn 吊扇
 kmys 吊床
 kmyq 吊诡
@@ -49307,7 +49221,6 @@ ocwg 糅合
 ocwt 焌
 ocyl 粗通文墨
 ocyj 糔
-ocym 烟台市
 od 类
 odap 烦劳
 oday 爄
@@ -51053,7 +50966,6 @@ pbyo 字迹
 pbyn 字词
 pbyl 字库
 pbyq 字义
-pbym 安阳市
 pbym 字调
 pcfn 赛马场
 pcgq 神圣不可侵犯
@@ -51066,7 +50978,6 @@ pcso 实验楼
 pctl 宝马香车
 pcum 宻
 pcyd 神通广大
-pcym 宝鸡市
 pd 害
 pdad 宏基
 pdad 福布斯
@@ -51886,7 +51797,6 @@ pitk 安常处顺
 piuj 穷当益坚
 pivc 寖
 piwq 家常便饭
-piym 宁波市
 piyw 宵夜
 piyt 家常话
 piyn 祝酒词
@@ -51966,7 +51876,6 @@ pjyg 宴请
 pjyy 寓言
 pjya 宴席
 pjyr 审时度势
-pjym 宜昌市
 pjyw 冥府
 pjye 冥衣
 pjys 审订
@@ -54241,7 +54150,6 @@ pyyl 被评为
 pyyt 福州
 pyyt 神州
 pyym 神庙
-pyym 福州市
 pyyn 祝词
 pyyw 社论
 pyyo 神迹
@@ -55952,7 +55860,6 @@ qiyw 乐府
 qiyn 销户
 qiys 镗床
 qiym 乐高
-qiym 镇江市
 qiyp 乐亭
 qj 旬
 qjah 象牙
@@ -56287,7 +56194,6 @@ qkyy 名言
 qkya 免试
 qkyn 名望
 qkyh 名店
-qkym 银川市
 qkyo 免谈
 qkyt 名族
 qkyp 锃亮
@@ -58639,7 +58545,6 @@ quxt 銻
 quxx 鎡
 quyp 解决方案
 quyw 猫头鹰
-quym 包头市
 quyi 儿童文学
 quyy 名门望族
 quya 锐度
@@ -65307,13 +65212,11 @@ ryyg 邀请
 ryyy 抗议
 ryyc 扩充
 ryyb 撤离
-ryym 扬州市
 ryyr 撤诉
 ryyn 反义词
 ryyn 护肩
 ryyc 指鹿为马
 ryyy 白话文
-ryym 泉州市
 ryyf 白话诗
 ryyt 年高望重
 ryym 撤市
@@ -67768,7 +67671,6 @@ spx 柁
 spxn 柁
 spxa 棕红
 spxk 棕绳
-spym 西安市
 spya 枕席
 spyh 榊
 sq 构
@@ -68303,7 +68205,6 @@ ssy 林
 ssyy 禁言
 ssyx 麓
 ssym 木讷
-ssym 桂林市
 ssyt 梦话
 ssyt 郴州
 ssyy 梵文
@@ -69224,7 +69125,6 @@ syxj 焚膏继晷
 syxl 槒
 syyt 杭州
 syyg 术语
-syym 杭州市
 syyi 想方设法
 syyu 述说
 syyw 概率论
@@ -70045,7 +69945,6 @@ tdyy 箴言
 tdyy 敌方
 tdyu 乱说
 tdyg 短语
-tdym 长春市
 tdyn 短讯
 tdyw 知府
 tdys 乱麻
@@ -71974,7 +71873,6 @@ tiww 香港人
 tiwx 衍化
 tixj 生活费
 tiyx 利润率
-tiym 长沙市
 tiym 稍高
 tiyt 稍许
 tiyl 稍为
@@ -75253,7 +75151,6 @@ tyxa 繁文缛节
 tyxh 衒
 tyxl 稸
 tyxy 入编
-tyym 重庆市
 tyya 毛主席
 tyyl 入库
 tyyn 入户
@@ -79885,7 +79782,6 @@ uxya 剃度
 uxyj 北齐
 uxyo 递变
 uxyg 北语
-uxym 新乡市
 uxyr 癴
 uxyw 癵
 uy 六
@@ -80123,18 +80019,15 @@ uyxj 差旅费
 uyxi 痃
 uyxg 六线
 uyxy 癕
-uyym 北京市
 uyyn 门户
 uyyw 辩论
 uyyw 辨认
 uyyw 门诊
-uyym 郑州市
 uyyh 门店
 uyyg 辩证
 uyyk 辨识
 uyym 闹市
 uyym 门市
-uyym 兰州市
 uyyp 凉亭
 uyyy 将计就计
 uyyn 辩词
@@ -83268,7 +83161,6 @@ wewy 拿腔拿调
 wewr 拿腔作势
 wexj 使用费
 wexd 傒
-weym 合肥市
 weyx 使用率
 weyg 信用证
 weyl 仍为
@@ -84397,7 +84289,6 @@ whyn 企望
 whyw 候诊
 whyt 俏皮话
 whym 个高
-whym 个旧市
 whym 企调
 wi 偿
 wiad 倘若
@@ -84933,7 +84824,6 @@ wmwn 侺
 wmwt 借风使船
 wmxr 催缴
 wmxg 侧线
-wmym 佛山市
 wmys 分崩离析
 wmyt 侗族
 wmyb 催熟
@@ -85303,7 +85193,6 @@ wpxj 食宿费
 wpxy 仰之弥高
 wpxg 分割线
 wpyy 从容就义
-wpym 保定市
 wq 你
 wqa 低
 wqay 低
@@ -90640,7 +90529,6 @@ xxyx 比率
 xxyy 比方
 xxya 比试
 xxya 经纬度
-xxym 纽约市
 xxyt 纽约州
 xxyn 比肩
 xxyf 比诸
@@ -91803,7 +91691,6 @@ yfyq 讲义
 yfya 计谋
 yfyg 讲评
 yfyg 庄主
-yfym 廊坊市
 yfyy 讳言
 yfyf 说干就干
 yfyy 计议
@@ -93170,7 +93057,6 @@ ymyc 调序
 ymya 高风亮节
 ymym 调高
 ymym 调调
-ymym 唐山市
 ymyt 高州
 ymyy 訉
 yn 记
@@ -94186,7 +94072,6 @@ yqyt 诡诈
 yqyt 这句话
 yqyw 底座
 yqyf 诡计
-yqym 义乌市
 yqyw 义诊
 yqyc 诡谲
 yqyy 谗言
@@ -95947,7 +95832,6 @@ yyxy 詃
 yyy 言
 yyyt 广州
 yyyy 言
-yyym 广州市
 yyyg 言语
 yyyw 言论
 yyyw 议论
