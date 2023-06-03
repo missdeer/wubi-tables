@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '**.txt'
+      - '.github/workflows/gendict.yml'
 
 jobs:
   build:
